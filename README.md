@@ -15,10 +15,6 @@
 
 *run: mvn clean install  
 
-*run: mvn compile  
-
-*run: mvn package  
-
 
 ### Usage
 *run: java -jar target/familyTree-1.0-SNAPSHOT.jar  
