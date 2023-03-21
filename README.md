@@ -15,12 +15,11 @@
 
 *run: mvn clean install  
 
+### Tests
+*run: mvn test (run only tests)
 
 ### Usage
 *run: java -jar target/familyTree-1.0-SNAPSHOT.jar  
-
-### Tests
-*run: mvn test  
 
 ### Excepted Output
 ![Snimka zaslona (142)](https://user-images.githubusercontent.com/94760324/226491802-a91d6972-16f2-4524-8f66-dd03d6964600.png)  
